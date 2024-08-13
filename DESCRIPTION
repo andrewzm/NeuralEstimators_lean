@@ -1,4 +1,4 @@
-Package: NeuralEstimators_lean
+Package: NeuralEstimators
 Title: NeuralEstimators: Likelihood-Free Parameter Estimation using Neural Networks
 Version: 0.0.1
 Authors@R: 
